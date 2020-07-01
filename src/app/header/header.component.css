@@ -1,0 +1,30 @@
+header div h1{
+    position: relative;
+    top: 30px;
+    right: 115px;
+}
+header{
+    background-color: black;
+    color: white;
+}
+header div p{
+    font-size: 2em;
+    font-weight: 200;
+}
+header p {
+    font-size: 50%;
+    text-align: center;
+}
+header h1{
+    font-size: 3em;
+    text-align: center;
+}
+
+#home{
+    background-color: black;
+    color: white;
+    height: 400px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
